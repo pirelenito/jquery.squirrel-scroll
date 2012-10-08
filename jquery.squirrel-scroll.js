@@ -1,7 +1,7 @@
 // Usage: $('.element-to-be-always-visible').squirrelScroll();
 //
 // Options:
-// Usage: $('.element-to-be-always-visible').squirrelScroll({bottomOffset: 20, topOffset: 20});
+// Usage: $('.element-to-be-always-visible').squirrelScroll({topOffset: 20, bottomOffset: 20});
 //
 // author: Paulo Ragonha
 // see: https://github.com/pirelenito/jquery.squirrel-scroll
