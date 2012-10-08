@@ -12,7 +12,7 @@ Call the setup method on the element you want allways visible:
 
 You can also specify the content offset:
 
-`$('.element-to-be-always-visible').squirrelScroll({bottomOffset: 20, topOffset: 20});`
+`$('.element-to-be-always-visible').squirrelScroll({topOffset: 20, bottomOffset: 20});`
 
 ## Browser compatibility
 
